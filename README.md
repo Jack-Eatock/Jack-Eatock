@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+[![Jack-Eatock's github stats](https://github-readme-stats.vercel.app/api?username=Jack-Eatock)](https://github.com/Jack-Eatock/github-readme-stats)
+
 <!--
 **Jack-Eatock/Jack-Eatock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Jack-Eatock's github stats](https://github-readme-stats.vercel.app/api?username=Jack-Eatock)](https://github.com/Jack-Eatock/github-readme-stats)
+
 
 
 Here are some ideas to get you started:
