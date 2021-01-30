@@ -1,5 +1,9 @@
 ### Hi there 👋
-## I am first year University Student studying computer science!
+# I am an first year student, studying computer science at Plymouth University.
+I am very intersted in:
+- VR game development    ( Confident in my skills) 
+- AI, machine learning.  ( Currently researching ) 
+- Networking             ( Currently researching ) 
 
 [![Jack-Eatock's github stats](https://github-readme-stats.vercel.app/api?username=Jack-Eatock&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Jack Eatock's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JackEatock&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
