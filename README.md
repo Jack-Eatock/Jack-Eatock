@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am an first year student, studying computer science at Plymouth University.
+I am an first year student, studying computer science at Plymouth University.
 I am very intersted in:
 - VR game development    ( Confident in my skills) 
 - AI, machine learning.  ( Currently researching ) 
