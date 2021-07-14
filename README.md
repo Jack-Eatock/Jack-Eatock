@@ -4,7 +4,7 @@ I am very intersted in:
 - VR game development    ( Confident in my skills ) 
 - Web based applications ( Developing the skills  ) 
 - AI, machine learning.  ( Currently researching  ) 
-- Networking             ( Currently researching  ) 
+- Networking             ( Developing the skills  ) 
 
 [![Jack-Eatock's github stats](https://github-readme-stats.vercel.app/api?username=Jack-Eatock&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
