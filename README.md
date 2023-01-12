@@ -8,6 +8,4 @@ I am very intersted in:
 - AI, machine learning.         ( Confident in my skills ) 
 - Networking                    ( Developing the skills  ) 
 
-[![Jack-Eatock's github stats](https://github-readme-stats.vercel.app/api?username=Jack-Eatock&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Jack-Eatock's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jack-Eatock&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
