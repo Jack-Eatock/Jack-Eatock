@@ -1,7 +1,7 @@
 Not very active on github, more so on Bitbucket, Gitlab and Azure 
 
-Second year student, studying computer science at Plymouth University.
-I am very intersted in:
+Final year student, studying computer science at Plymouth University.
+I am very interested in:
 - 3D game development           ( Confident in my skills )
 - VR and AR game development    ( Confident in my skills ) 
 - Web based applications        ( Developing the skills  ) 
